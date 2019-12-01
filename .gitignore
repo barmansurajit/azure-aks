@@ -1,0 +1,4 @@
+.*
+clouddrive
+!.gitignore
+!*.md
